@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @09Tasneem
-- 👀 I’m interested in Python, Javascript, Java, React, Node.js
-- 🌱 I’m currently learning Python, Java
+- 👀 I’m interested in Python, Javascript, Java, Next.js, Node.js
+- 🌱 I’m currently learning C
 - 📫 How to reach me (Just write a mail to: tasneem.abdullah.samit@gmail.com)
